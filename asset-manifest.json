@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/softlex/static/css/main.c7bd1d14.css",
+    "main.js": "/softlex/static/js/main.174a41b4.js",
+    "static/js/787.35c8fb4b.chunk.js": "/softlex/static/js/787.35c8fb4b.chunk.js",
+    "index.html": "/softlex/index.html",
+    "main.c7bd1d14.css.map": "/softlex/static/css/main.c7bd1d14.css.map",
+    "main.174a41b4.js.map": "/softlex/static/js/main.174a41b4.js.map",
+    "787.35c8fb4b.chunk.js.map": "/softlex/static/js/787.35c8fb4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7bd1d14.css",
+    "static/js/main.174a41b4.js"
+  ]
+}
