@@ -1,0 +1,12 @@
+.button {
+  font-size: calc(10px + 15 * (100vw / 5000));
+}
+
+.button_mt {
+  margin-top: 2vh;
+}
+
+.button a {
+  text-decoration: none;
+}
+/*# sourceMappingURL=Button.css.map */

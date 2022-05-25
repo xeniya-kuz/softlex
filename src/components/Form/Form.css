@@ -1,0 +1,19 @@
+.form {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  border: 1px solid black;
+  text-align: center;
+  padding: 3% 3%;
+  margin: 0 auto;
+}
+
+.form__textarea {
+  height: 7vh;
+  resize: none;
+}
+
+.red {
+  color: red;
+}
+/*# sourceMappingURL=Form.css.map */

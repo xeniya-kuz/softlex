@@ -1,0 +1,1 @@
+export const selectFormStatus = (state) => state.form.status;

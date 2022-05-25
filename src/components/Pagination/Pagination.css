@@ -1,0 +1,18 @@
+.pagination {
+  margin: 2% 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.page, .current-page {
+  cursor: pointer;
+}
+
+.current-page {
+  border-color: green;
+}
+/*# sourceMappingURL=Pagination.css.map */

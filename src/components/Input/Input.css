@@ -1,0 +1,6 @@
+.input {
+  width: 100%;
+  font-size: calc(10px + 20 * (100vw / 5000));
+  display: block;
+}
+/*# sourceMappingURL=Input.css.map */

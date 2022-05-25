@@ -1,0 +1,42 @@
+.table {
+  display: -ms-grid;
+  display: grid;
+  grid-row-gap: 2%;
+  padding: 2% 0;
+}
+
+.row {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 0.5fr (1fr)[4] 0.5fr 1fr;
+      grid-template-columns: 0.5fr repeat(4, 1fr) 0.5fr 1fr;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  justify-items: center;
+  border: 1px solid;
+}
+
+.column {
+  -webkit-box-flex: 1;
+      -ms-flex-positive: 1;
+          flex-grow: 1;
+}
+
+.img {
+  width: 80%;
+}
+
+.sort {
+  cursor: pointer;
+  width: 100%;
+}
+
+.sort:hover {
+  background-color: green;
+}
+
+.button-wrap {
+  text-align: right;
+}
+/*# sourceMappingURL=Home.css.map */
