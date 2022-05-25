@@ -4,7 +4,7 @@ import $ from 'jquery'
 import { useState } from 'react'
 import { Button } from '../Button/Button'
 import { Input } from '../Input/Input'
-import { Modal } from '../../Modal/Modal'
+import { Modal } from '../Modal/Modal'
 import { useDispatch } from 'react-redux'
 import { getFormData } from '../../store/form/actions'
 import { fetchUrl } from "../../utils/fetchUrl";

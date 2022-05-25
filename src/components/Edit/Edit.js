@@ -8,7 +8,7 @@ import { getEditData } from '../../store/edit/actions'
 import { selectEditStatus } from '../../store/edit/selectors'
 import { selectToken } from "../../store/login/selectors"
 import { Button } from "../Button/Button"
-import { Modal } from '../../Modal/Modal'
+import { Modal } from '../Modal/Modal'
 import { edit } from '../../utils/constants'
 import { fetchUrl } from '../../utils/fetchUrl'
 

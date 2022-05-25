@@ -1,9 +1,9 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import { Edit } from '../components/Edit/Edit';
-import { Home } from '../components/Home/Home';
-import { Login } from '../components/Login/Login';
-import { Form } from '../components/Form/Form';
-import '../App.css'
+import { Home } from '../Home/Home';
+import { Login } from '../Login/Login';
+import { Form } from '../Form/Form';
+import { Edit } from '../Edit/Edit';
+import '../../App.css'
 
 
 

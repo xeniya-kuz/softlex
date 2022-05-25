@@ -6,7 +6,7 @@ import $ from 'jquery'
 import { useDispatch, useSelector } from "react-redux";
 import { getLoginData, getToken } from "../../store/login/actions";
 import { selectLoginMessage, selectLoginStatus } from "../../store/login/selectors";
-import { Modal } from "../../Modal/Modal";
+import { Modal } from "../Modal/Modal";
 import './Login.css'
 import { fetchUrl } from "../../utils/fetchUrl";
 import { login } from "../../utils/constants";
